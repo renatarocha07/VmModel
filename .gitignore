@@ -1,0 +1,36 @@
+# Ambiente virtual
+venv/
+ENV/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+
+# Logs
+*.log
+
+# Configs do sistema/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.DS_Store
+Thumbs.db
+
+# Arquivos de build
+dist/
+build/
+*.egg-info/
+
+# Dados do projeto (não versionar imagens de input/output)
+data/images_inputt/
+data/images_outputt/
