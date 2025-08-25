@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+supabase
+watchdog
+python-dotenv
