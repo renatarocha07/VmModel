@@ -6,7 +6,7 @@ from uploader import upload_image
 
 # Configurações do servidor TCP
 HOST = "193.123.119.192"   # Escuta em todas interfaces
-PORT = 8888
+PORT = 1883
 INPUT_DIR = r"C:\projeto_yolo\data\images_inputt"
 OUTPUT_DIR = r"C:\projeto_yolo\data\images_outputt"
 
